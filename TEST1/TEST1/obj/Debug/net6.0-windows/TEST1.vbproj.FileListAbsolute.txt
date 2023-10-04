@@ -1,0 +1,16 @@
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\bin\Debug\net6.0-windows\TEST1.exe
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\bin\Debug\net6.0-windows\TEST1.deps.json
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\bin\Debug\net6.0-windows\TEST1.runtimeconfig.json
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\bin\Debug\net6.0-windows\TEST1.dll
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\bin\Debug\net6.0-windows\TEST1.pdb
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.Form1.resources
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.vbproj.GenerateResource.cache
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.AssemblyInfoInputs.cache
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.AssemblyInfo.vb
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.vbproj.CoreCompileInputs.cache
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.dll
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\refint\TEST1.dll
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.pdb
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\TEST1.genruntimeconfig.cache
+C:\Users\beybl\Desktop\CSC301\TEST1\TEST1\obj\Debug\net6.0-windows\ref\TEST1.dll
